@@ -4,6 +4,6 @@ A pure PHP class that allows add or remove automatically pages from your sitesma
 
 Usage:
 
-include($_SERVER["DOCUMENT_ROOT"]."/simplySitemapGenerator/sisigen.php");
-$ssg = new \SimpleSitemapGenerator\Sisigen();
+include($_SERVER["DOCUMENT_ROOT"]."/simplySitemapGenerator/sisigen.php");\n
+$ssg = new \SimpleSitemapGenerator\Sisigen();\n
 $ssg->addSite( "http://www.newsite.com/newpos/id", "0.8" );
