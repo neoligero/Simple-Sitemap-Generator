@@ -1,4 +1,8 @@
 # Simple-Sitemap-Generator
+
+Author: Neoligero
+Web: http://www.neoligero.com
+
 A pure PHP class that allows add or remove automatically pages from your sitesmap and generate too your sitemap index, anytime you create a new one
 
 
